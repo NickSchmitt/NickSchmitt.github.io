@@ -40,10 +40,10 @@ p {
 }
 
 .name {
-  font-family: Montserrat;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 45px;
-  text-transform: uppercase;
-  font-weight: 900;
+  /* text-transform: uppercase; */
+  /* font-weight: 900; */
   padding: 12px;
   border: 4px solid #1F78FF;
   color: #1F78FF;
